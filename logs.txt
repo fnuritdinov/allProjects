@@ -1,0 +1,4 @@
+сколько INFO
+сколько ERROR
+сколько WARNING
+сколько WARNING
